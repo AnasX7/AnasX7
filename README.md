@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Anas and I'm an IT student, from Yemen.</p>
+<p align="left">My name is Anas and I'm an IT student.</p>
 
 ###
 
