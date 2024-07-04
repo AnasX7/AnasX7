@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi, I'm Anas 👋</h1>
 
 ###
 
-<p align="left">My name is Anas and I'm an IT student.</p>
+<p align="left">I'm an IT Student at University of Science & Technology.<br/> Check My Portfolio Website <a href="anassalem.com" target="_blank">anassalem.com</a></p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">My technical skills</h2>
+<h2 align="left">My skills</h2>
 
 ###
 
