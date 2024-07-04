@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm an IT Student at University of Science & Technology.<br/> Check My Portfolio Website <a href="https://anassalem.com" target="_blank">anassalem.com</a></p>
+<p align="left">I'm an IT Student at University of Science & Technology.<br/> Check My Portfolio Website <a href="https://anassalem.com">anassalem.com</a></p>
 
 ###
 
