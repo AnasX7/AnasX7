@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm interested in web development and AI<br>📚 I'm currently learning Frontend<br>🎯 Goals: Full Stack Developer</p>
+<p align="left">✨ I'm interested in web development and AI<br>📚 I'm currently learning Front-end<br>🎯 Goals: Full Stack Developer</p>
 
 ###
 
