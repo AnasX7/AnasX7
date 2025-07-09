@@ -2,21 +2,7 @@
 
 ###
 
-<p align="center">I'm an IT Student at University of Science & Technology.<br>Check My Portfolio Website <a href="https://www.anassalem.com/" target="_blank">anassalem.com</a></p>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/anas-salem-256022304/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:anassalem.aa@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/an_xr7?igsh=emZweWRxaDdkNTJs&utm_source=qr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+<p align="center">I'm an IT Student at University of Science & Technology, and a Full-Stack developer.</p>
 
 ###
 
@@ -24,7 +10,7 @@
 
 ###
 
-<p align="center">✨  I'm interested in web development<br>👨🏻‍💻 I'm currently learning react<br>🎯 Goals:  Full Stack Developer</p>
+<p align="center">✨  I'm interested in Web Development<br>👨🏻‍💻 I'm currently learning Nextjs</p>
 
 ###
 
@@ -33,6 +19,8 @@
 ###
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
@@ -45,11 +33,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
