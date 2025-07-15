@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm an IT Student at University of Science & Technology, and a Full-Stack developer.</p>
+<p align="center">I'm an IT Student at University of Science & Technology, and a Software Engineer.</p>
 
 ###
 
