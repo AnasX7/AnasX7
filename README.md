@@ -37,8 +37,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
