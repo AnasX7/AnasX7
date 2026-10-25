@@ -1,26 +1,59 @@
-# Hi, I'm Anas Salem
+<h1 align="center">Hi, I'm Anas👋🏻</h1>
 
-I'm a full-stack software engineer based in Abu Dhabi, UAE. I build web and mobile applications with TypeScript, React, Next.js, NestJS, and React Native.
+###
 
-My work includes bilingual English/Arabic interfaces, backend APIs, authentication, and PostgreSQL databases. I currently work at Vital Tech.
+<p align="center">I'm a Full-Stack Software Engineer based in Abu Dhabi, UAE.</p>
 
-[Portfolio](https://anassalem.com) · [LinkedIn](https://www.linkedin.com/in/anassalem7/)
+###
 
-## Selected projects
+<h2 align="center">About me</h2>
 
-| Project                                                                  | What it demonstrates                                                                    |
-| ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
-| [Personal portfolio](https://github.com/AnasX7/my-portfolio)             | English/Arabic layouts, custom motion, project case studies, and localized SEO.         |
-| [Better Nest](https://github.com/AnasX7/better-nest)                     | A TypeScript CLI for scaffolding NestJS applications and full-stack monorepos.          |
-| [Salaty](https://github.com/AnasX7/e-commerce)                           | A React Native shopping app with product browsing, cart, checkout, and account screens. |
-| [ELEVEN Fitness Studio](https://github.com/AnasX7/eleven-fitness-studio) | A bilingual fitness website with PostgreSQL content, API routes, and authentication.    |
+###
 
-## Technologies I work with
+<p align="center">✨  I build web and mobile applications<br>👨🏻‍💻 Working with Next.js, NestJS & TypeScript</p>
 
-- **Web:** React, Next.js, TypeScript, Tailwind CSS
-- **Mobile:** React Native, Expo
-- **Backend:** NestJS, Node.js, Hono, Laravel
-- **Data:** PostgreSQL, Prisma, Drizzle
-- **Delivery:** Docker, GitHub Actions, Vercel, Cloudflare
+###
 
-My repositories also include earlier coursework and learning projects. The selected projects above are the best starting point for exploring my work.
+<h2 align="center">Languages & Tools</h2>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anasx7&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anasx7&theme=react"  height="150" alt="Most Commit Language" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anasx7&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/anasx7/anasx7/output/snake.svg" alt="Snake animation" />
+
+###
